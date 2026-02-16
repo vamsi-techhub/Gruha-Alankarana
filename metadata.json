@@ -1,0 +1,8 @@
+{
+  "name": "Gruha Alankara",
+  "description": "An intelligent interior design application with AR visualization, AI-powered design generation, and a multilingual design assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
